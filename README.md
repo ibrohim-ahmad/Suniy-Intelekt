@@ -1,4 +1,4 @@
-# Suniy-Intelekt
+# Suniy-Intellekt
 A beginner-friendly guide to Artificial Intelligence, its core concepts, and real-world applications.
 
 🤖 Artificial Intelligence (AI) Overview
